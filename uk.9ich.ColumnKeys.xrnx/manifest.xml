@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>Vol/Pan/Delay/FX +/- Keybindings</Name>
+  <Id>uk.9ich.ColumnKeys</Id>
+  <Version>1</Version>
+  <ApiVersion>3</ApiVersion>
+  <Author>9ich</Author>
+  <AutoUpgraded>false</AutoUpgraded>
+  <Category>In Progress</Category>
+  <Description> Adds keybindings to increase and decrease volume, panning, delay, and effect amounts on selected pattern lines. The keybindings are found under "Pattern Editor-&gt;Block Operations".
+  </Description>
+  <Homepage>http://tools.renoise.com</Homepage>
+  <Platform/>
+  <Icon/>
+</RenoiseScriptingTool>
